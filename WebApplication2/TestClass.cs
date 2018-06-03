@@ -9,7 +9,8 @@ namespace WebApplication2
     {
         public int Add()
         {
-            return 1;
+            var add = 3;
+            return add;
         }
     }
 }
