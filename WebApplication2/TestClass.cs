@@ -7,5 +7,9 @@ namespace WebApplication2
 {
     public class TestClass
     {
+        public int Add()
+        {
+            return 1;
+        }
     }
 }
